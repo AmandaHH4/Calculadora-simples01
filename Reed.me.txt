@@ -1,0 +1,8 @@
+Calculadora basica 1
+
+Uma calculadora simples com as operações de adição (+), subtração (-), multiplicação (*) e divisão (/) é uma
+ferramenta básica que pode ajudar a realizar cálculos matemáticos simples.
+ Com essas quatro operações, você pode resolver muitos problemas aritméticos básicos.
+
+Ao usar essa calculadora simples, você pode inserir os números digitando-os no teclado ou pressionando os botões numéricos na tela. 
+Em seguida, pressione o botão correspondente à operação desejada (+, -, *, /) para realizar o cálculo. O resultado aparecerá na tela da calculadora.
